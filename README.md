@@ -16,12 +16,13 @@ Woman In Tech Academy bitirme projesi, film data analizini içerir.
 * Aktörlerin oynadığı filmler 
 * Aktörlerin oynadığı karakterler 
 
-#Proje İçerisinde Kullanılan Kütüphaneler:
+# Proje İçerisinde Kullanılan Kütüphaneler:
 
 Numpy
 Pandas
 Matplotlib
 Seaborn
-
-#Sisterslab ekibine ve akademide ekip arkadaşlarıma vakitlerini ayırdıklarıları için teşekkür ederim.
+ 
+# Teşekkür
+Sisterslab ekibine ve akademide ekip arkadaşlarıma vakitlerini ayırdıklarıları için teşekkür ederim.
 
