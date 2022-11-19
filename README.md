@@ -1,8 +1,6 @@
 # Movie-Data-Analaysis
 Woman In Tech Academy bitirme projesi, film data analizini içerir.
-
-![movie] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.blsi.com%2Fportfolio_cinemas_theatres.php&psig=AOvVaw02f0GlSfyXIdMg3C14z-c1&ust=1668960629482000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCjx_3QuvsCFQAAAAAdAAAAABAE)
-
+!(https://i.pinimg.com/originals/7b/7c/59/7b7c59cc2974ad20e9c57243fbe6dc5f.jpg)
 5 cvs dosyası içeren bu projede sırasıyla şu verileri elde edelimekteyiz: 
 * Film adları
 * Film türleri
